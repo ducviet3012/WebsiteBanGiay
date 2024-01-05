@@ -1,0 +1,205 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BaoCaoTTCM
+build_property.RootNamespace = BaoCaoTTCM
+build_property.ProjectDir = d:\TTCM\BaoCaoTTCM\BaoCaoTTCM\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\TTCM\BaoCaoTTCM\BaoCaoTTCM
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/Acount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEFjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/ChiTietHDN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXENoaVRpZXRIRE4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/DanhMucSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNTYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/HoaDonNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEhvYURvbk5oYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/KhachHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEtoYWNoSGFuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/NhanVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXE5oYW5WaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/SuaAcount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YUFjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/SuaHDN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YUhETi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/SuaKhachHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YUtoYWNoSGFuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/SuaNhanVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YU5oYW5WaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/SuaSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YVNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/ThemAcount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1BY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/ThemChiTietHDN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1DaGlUaWV0SEROLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/ThemHDN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1IRE4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/ThemNhanVienMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1OaGFuVmllbk1vaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/HomeAdmin/ThemSanPhamMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtTW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Access/DangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXERhbmdLeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Access/DoiMK.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXERvaU1LLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Access/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Home/ChiTietSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0U2FuUGhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Home/SanPhamTheoHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYW5QaGFtVGhlb0hhbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Home/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Home/TimKiem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaW1LaWVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/Components/HangSpMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGFuZ1NwTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/Components/HeaderCart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyQ2FydFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/Components/NumberCart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTnVtYmVyQ2FydFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/_LayoutAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/_LayoutCheckOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDaGVja091dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/_LayoutContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/_LayoutShop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/_LayoutTrangChu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRUcmFuZ0NodS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/_PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/_PartialHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/_PartialSp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsU3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/TTCM/BaoCaoTTCM/BaoCaoTTCM/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v1lpnm2ov3

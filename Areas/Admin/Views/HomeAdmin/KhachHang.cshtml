@@ -1,0 +1,69 @@
+﻿@using BaoCaoTTCM.Models;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TKhachHang>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "KhachHang";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Khách hàng</h1>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Tên KH
+            </th>
+            <th>
+                Địa chỉ
+            </th>
+            <th>
+                Giới Tính
+            </th>
+            <th>
+                Điện thoại
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+            string @cls = "table-success";
+        }
+@foreach (var item in Model) {
+            i = i + 1;
+            cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.TenKh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GioiTinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DienThoai)
+            </td>
+            <td>
+                <a asp-action="SuaKhachHang" asp-route-makh="@item.MaKh">Edit</a> |
+                <a asp-action="XoaKhachHang" asp-route-makh="@item.MaKh">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div style="margin: 0 auto">
+    @Html.PagedListPager(Model,page => Url.Action("khachhang", new {page=page, maloai = ViewBag.maloai}),new X.PagedList.Web.Common.PagedListRenderOptions(){
+    LiElementClasses = new List<String> {"page-item"},
+    PageClasses = new List<String> {"page-link"}
+    })
+</div>

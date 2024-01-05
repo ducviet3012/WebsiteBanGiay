@@ -1,0 +1,66 @@
+﻿@using BaoCaoTTCM.Models;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TChiTietHdn>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "ChiTietHDN";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>ChiTietHDN</h1>
+<p>@TempData["Message"]</p>
+<p>
+    <a asp-action="ThemChiTietHDN">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Mã SP
+            </th>
+            <th>
+                SL Nhập
+            </th>
+            <th>
+                Số HDN
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+                @{
+            int i = 0;
+            string @cls = "table-success";
+        }
+@foreach (var item in Model) {
+                i = i + 1;
+            cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.MaSp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Slnhap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoHdn)
+            </td>
+            <td>
+                    <a asp-action="SuaChiTietHDN" asp-route-sohdn="@item.SoHdn" asp-route-masp="@item.MaSp">Edit</a> |
+                    <a asp-action="XoaChiTietHDN" asp-route-sohdn="@item.SoHdn" asp-route-masp="@item.MaSp">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div style="margin: 0 auto">
+    @Html.PagedListPager(Model,page => Url.Action("chitiethdn", new {page=page, maloai = ViewBag.maloai}),new X.PagedList.Web.Common.PagedListRenderOptions(){
+    LiElementClasses = new List<String> {"page-item"},
+    PageClasses = new List<String> {"page-link"}
+    })
+</div>
